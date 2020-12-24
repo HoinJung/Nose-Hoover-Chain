@@ -8,3 +8,5 @@ I attached a report for this project, incluidng entire Algorithm, backgrounds, p
 Read pdf file 'NVT ensemble for LJ-fluid with Nose-Hoover Chain'    
 
 I wrote the documents without license. Be free.   
+
+![ex_screenshot](./result_graph/structurde.png)
